@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Manvi1108
+- 
+- <h1 align="center"> 👋 Hi, I’m Manvi Singhal </h1>
 - 👀 I’m interested in gaining experience in various technical fields and explore my career journey!!!
 - 🌱 I’m currently learning Fullstack Development
 - 🧐 I'm also exploring various development fields.
