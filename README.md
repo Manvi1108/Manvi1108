@@ -1,6 +1,8 @@
  
  <h1 align="center"> Hi 👋, I’m Manvi Singhal </h1>
  
+ <h3 align="center"> Fine engineering at work </h3>
+ 
 - 👀 I’m interested in gaining experience in various technical fields and explore my career journey!!!
 
 - 🌱 I’m currently learning Fullstack Development
