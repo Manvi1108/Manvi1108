@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💹 Contribution Graph:
 <div align = "center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=VidishaSinghal26&theme=react-dark&hide_border=false&area=true" width="900px" >
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Manvi1108&theme=react-dark&hide_border=false&area=true" width="900px" >
 </div>
 <br>
 <div align = "center">
