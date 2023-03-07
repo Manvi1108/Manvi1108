@@ -20,5 +20,9 @@ You can click the Preview link to take a look at your changes.
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=manvi1108&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=codeburner0&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
+[langs]:username=codeburner0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
+[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=codeburner0&theme=dark&hide_border=false#gh-light-mode-only
+
 ---
 [![](https://visitcount.itsvg.in/api?id=manvi1108&icon=0&color=0)](https://visitcount.itsvg.in)
