@@ -2,6 +2,20 @@
  <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> , I’m Manvi Singhal </h1>
  
  <h3 align="center"> Fine engineering at work </h3>
+ var timePerLetter = 500,
+    newLineCharacter = '|',
+    text = document.createTextNode('');
+document.getElementById('test').appendChild(text);
+function printOut(str) {
+  var i = 0;
+  (function main() {
+    var char = str[i++];
+    text.nodeValue += char == newLineCharacter ? '\n' : char;
+    if(i < str.length)
+      setTimeout(main, timePerLetter);
+  })();
+}
+printOut("HELLO ASDA| SD");
  
 - 👀 I’m interested in gaining experience in various technical fields and explore my career journey!!!
 
