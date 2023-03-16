@@ -1,7 +1,19 @@
  
  <h1 align="center"> Hi 👋, I’m Manvi Singhal </h1>
  
- <h3 align="center"> Fine engineering at work </h3>
+<!--  <h3 align="center"> Fine engineering at work </h3> -->
+<h5 style="color:#fff">A <span class="typing" style="font-weight: 200; color:#004d40"></span></h5>
+ 
+ <!-- typed.js -->
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script type="text/javascript">
+    var typed = new Typed('.typing',{
+      strings: ["Solution Oriented", "Developer", "Fast Learner"],
+      loop: true,
+      typeSpeed: 80,
+      backSpeed: 40
+    });
+  </script>
  
 - 👀 I’m interested in gaining experience in various technical fields and explore my career journey!!!
 
