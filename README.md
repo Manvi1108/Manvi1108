@@ -43,10 +43,3 @@ You can click the Preview link to take a look at your changes.
 [langs]:username=codeburner0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=codeburner0&theme=dark&hide_border=false#gh-light-mode-only
 
-## 💹 Contribution Graph:
-<div align = "center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Manvi1108&theme=react-dark&hide_border=false&area=true" width="900px" >
-</div>
-<br>
-<div align = "center">
-
