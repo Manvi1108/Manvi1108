@@ -26,22 +26,28 @@ You can click the Preview link to take a look at your changes.
 <a href="https://leetcode.com/manvisinghal285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/manvisinghal285/" height="30" width="40" /></a>
 </p>
 
-## 💻Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
 
 
 
-# 📊GitHub Stats :
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=manvi1108&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=manvi1108&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Manvi1108&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Manvi1108&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manvi1108&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=manvi1108&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
@@ -50,3 +56,8 @@ You can click the Preview link to take a look at your changes.
 [langs]:username=manvi1108&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact
 [streaks]: https://github-readme-streak-stats.herokuapp.com/?user=manvi1108&theme=dark&hide_border=false#gh-light-mode-only
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Manvi1108&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
